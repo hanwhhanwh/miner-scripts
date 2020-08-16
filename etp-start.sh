@@ -2,8 +2,8 @@
 
 # 메타버스(Metaverse : ETP) 채굴을 위한 스크립트
 
-MINER_ID=miner02
-WALLET=MQZ7LZq9vXfHFhMneiemrStNemUHVuqWdT
+MINER_ID=${MINER_ID}
+WALLET=${ETP_WALLET}
 POOL1=etp-kor1.topmining.co.kr:8008
 POOL2=etp-kor1.topmining.co.kr:8008
 STRATUM=stratum1+tcp

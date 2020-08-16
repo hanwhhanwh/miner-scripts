@@ -1,7 +1,7 @@
 #!/bin/bash
 
-MINER_ID=miner05
-WALLET=hbesthee
+MINER_ID=${MINER_ID}
+WALLET=${ESN_WALLET}
 POOL1=asia.ethash-hub.miningpoolhub.com:20605
 POOL2=us-east.ethash-hub.miningpoolhub.com:20605
 STRATUM=stratum2+tcp

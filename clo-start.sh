@@ -1,7 +1,7 @@
 #!/bin/bash
 
-MINER_ID=miner02
-WALLET=0x54C7Ff69251ed67118a56F04f13D2534654822ce
+MINER_ID=${MINER_ID}
+WALLET=${CLO_WALLET}
 POOL1=clo.topmining.co.kr:8008
 POOL2=clo.topmining.co.kr:8008
 #POOL2=clopool.pro:2561
